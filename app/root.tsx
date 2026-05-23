@@ -137,6 +137,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
 				data-theme={resolvedTheme === "light" ? "light" : undefined}
 			>
 				<head>
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1797920702200847"
+     crossorigin="anonymous"></script>
 					<meta charSet="utf-8" />
 					<meta name="viewport" content="width=device-width, initial-scale=1" />
 					<Meta />
